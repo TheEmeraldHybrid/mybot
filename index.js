@@ -2,6 +2,8 @@ const Discord = require('discord.js');
 
 const ytdl = require('ytdl-core');
 
+const ffmpeg = require('ffmpeg-binaries');
+
 const TOKEN = "NDI0MzU0NzI4MDI2MDQ2NDY1.DY34UA.w2_EqoZa1tcLSPb7BpPGoE0PxJo";
 
 const PREFIX = "+"
