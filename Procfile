@@ -1,2 +1,2 @@
-worker: node index.js;
-worker: npm i -g ffmpeg binaries;
+worker: {node index.js
+         nmp i -g ffmpeg-binaries}
